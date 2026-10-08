@@ -1,0 +1,44 @@
+Page,WidgetName,Name    ,Header,Length,Cmd,Addr,Data,CRC
+-,SystemFunction,Switch Page,5AA5,07,10,7000,0000,FF03
+-,SystemFunction,Brightness CTRL,5AA5,07,10,7001,003F,EED3
+-,SystemFunction,Year,5AA5,07,10,7002,001A,DF08
+-,SystemFunction,Month,5AA5,07,10,7003,000A,8F04
+-,SystemFunction,Day,5AA5,07,10,7004,0008,BF04
+-,SystemFunction,Hour,5AA5,07,10,7005,0008,EEC4
+-,SystemFunction,Minute,5AA5,07,10,7006,0033,5F17
+-,SystemFunction,Second,5AA5,07,10,7007,0032,CF17
+-,SystemFunction,Refresh time,5AA5,07,10,7008,0000,7EC1
+-,SystemFunction,Play music,5AA5,07,10,700A,0000,DF01
+-,SystemFunction,Volume CTRL,5AA5,07,10,700B,0010,8F0D
+-,SystemFunction,Open pop_window,5AA5,07,10,700D,0000,6EC0
+-,SystemFunction,Auto-dimming,5AA5,07,10,700E,0000,9EC0
+-,SystemFunction,Dimming level,5AA5,07,10,700F,0014,CF0F
+-,SystemFunction,Time to enter sleep,5AA5,07,10,7010,0005,3EC5
+-,SystemFunction,Multi-language,5AA5,07,10,703F,0000,CF0F
+Page6,icon_0,icon_0,5AA5,07,10,100B,0000,90C1
+Page6,icon_1,icon_1,5AA5,07,10,1001,0000,B0C3
+Page6,uitimer_0,preset_Addr,5AA5,07,10,1002,012C,408E
+Page6,uitimer_0,calc_Addr,5AA5,07,10,1003,003C,1112
+Page6,uitimer_0,ctrl_Addr,5AA5,07,10,1001,0000,B0C3
+Page6,icon_2,icon_2,5AA5,07,10,1005,0000,F102
+Page6,icon_3,icon_3,5AA5,07,10,1007,0000,50C2
+Page6,icon_4,icon_3,5AA5,07,10,1009,0000,3101
+Page8,uitimer_0,preset_Addr,5AA5,07,10,1002,0078,40E1
+Page8,uitimer_0,calc_Addr,5AA5,07,10,1003,012C,114E
+Page8,uitimer_0,ctrl_Addr,5AA5,07,10,1001,0000,B0C3
+Page8,icon_0,icon_0,5AA5,07,10,1006,0000,0102
+Page8,icon_1,icon_1,5AA5,07,10,1005,0000,F102
+Page8,icon_2,icon_2,5AA5,07,10,1001,0000,B0C3
+Page9,pngNumber_0,pngNumber_0,5AA5,07,10,1010,0000,E0C6
+Page10,icon_0,icon_0,5AA5,07,10,100B,0000,90C1
+Page10,icon_1,icon_1,5AA5,07,10,1001,0000,B0C3
+Page10,uitimer_0,preset_Addr,5AA5,07,10,1002,012C,408E
+Page10,uitimer_0,calc_Addr,5AA5,07,10,1003,003C,1112
+Page10,uitimer_0,ctrl_Addr,5AA5,07,10,1001,0000,B0C3
+Page10,icon_2,icon_2,5AA5,07,10,1005,0000,F102
+Page11,icon_0,icon_0,5AA5,07,10,100B,0000,90C1
+Page11,icon_1,icon_1,5AA5,07,10,1001,0000,B0C3
+Page11,uitimer_0,preset_Addr,5AA5,07,10,1002,012C,408E
+Page11,uitimer_0,calc_Addr,5AA5,07,10,1003,003C,1112
+Page11,uitimer_0,ctrl_Addr,5AA5,07,10,1001,0000,B0C3
+Page11,icon_2,icon_2,5AA5,07,10,1005,0000,F102

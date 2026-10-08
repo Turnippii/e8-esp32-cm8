@@ -1,0 +1,6 @@
+﻿button_0:57,200,185,245,0x0020,,,Page0002,button_0,Disable,Disable,0x0000,
+button_1:358,200,185,245,0x0020,,,Page0003,button_1,Disable,Disable,0x0000,
+button_2:57,580,185,245,0x0020,,,Page0007,button_1,Disable,Disable,0x0000,
+button_3:358,580,185,245,0x0020,,,Page0010,button_1,Disable,Disable,0x0000,
+button_4:0,0,130,80,0x0020,,,Page0000,button_4,Disable,Disable,0x0000,
+button_5:200,0,200,80,0x0020,,,Page0009,button_0,Disable,Disable,0x0000,

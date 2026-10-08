@@ -1,0 +1,869 @@
+﻿2026/10/08 08:51:47
+Start to make bin...
+ndl_Ani_number:0
+Get UI message
+
+Get page widget data...
+Page_Number:26
+
+Page 0 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0000.cfg
+
+Page 1 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0001.cfg
+
+Page 2 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0002.cfg
+Page picture Name: 0002_Duree_01min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_01min
+
+Page 3 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0003.cfg
+
+Page 4 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0004.cfg
+
+Page 5 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0005.cfg
+
+Page 6 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0006.cfg
+
+Page 7 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0007.cfg
+
+Page 8 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0008.cfg
+
+Page 9 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0009.cfg
+
+Page 10 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0010.cfg
+
+Page 11 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0011.cfg
+
+Page 12 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0012.cfg
+Page picture Name: 0012_Duree_02min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_02min
+
+Page 13 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0013.cfg
+Page picture Name: 0013_Duree_03min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_03min
+
+Page 14 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0014.cfg
+Page picture Name: 0014_Duree_04min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_04min
+
+Page 15 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0015.cfg
+Page picture Name: 0015_Duree_05min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_05min
+
+Page 16 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0016.cfg
+Page picture Name: 0016_Duree_06min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_06min
+
+Page 17 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0017.cfg
+Page picture Name: 0017_Duree_07min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_07min
+
+Page 18 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0018.cfg
+Page picture Name: 0018_Duree_08min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_08min
+
+Page 19 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0019.cfg
+Page picture Name: 0019_Duree_09min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_09min
+
+Page 20 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0020.cfg
+Page picture Name: 0020_Duree_10min.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0002_Duree_10min
+
+Page 21 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0021.cfg
+Page picture Name: 0021_Remodelage.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0021_Remodelage_Muscles.jpg
+
+Page 22 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0022.cfg
+Page picture Name: 0022_Anti_cellulite.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0022_Anti_cellulite_Muscles.jpg
+
+Page 23 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0023.cfg
+Page picture Name: 0023_Gainage.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0023_Gainage_Muscles.jpg
+
+Page 24 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0024.cfg
+Page picture Name: 0024_Relaxation_Drainage.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0024_Relaxation_Drainage_Muscles.jpg
+
+Page 25 backImageW.H = 1024, 600
+page_cfg_name: C:/HMI_E8/Plugin/Page0025.cfg
+Page picture Name: 0007_Perso.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: 0025_Proprioception
+Make Page_para_all.bin
+
+
+Make Label MultiLanguage bin...
+MultiLang_Msg_Addr:0x00023061
+lang_num = 1
+
+
+
+Page_Number: 26
+
+Picture list----
+0000_Demarrage.jpg
+0001_Menu_principal.jpg
+0002_Duree_01min.jpg
+0003_Programmes.jpg
+0004_Tonification_Muscles.jpg
+0005_Niveau.jpg
+0006_Seance_Programmes.jpg
+0007_Perso.jpg
+0008_Seance_Perso.jpg
+0009_Manuel_Clavier.jpg
+0010_Seance_Manuel.jpg
+0011_Seance_Duree.jpg
+0012_Duree_02min.jpg
+0013_Duree_03min.jpg
+0014_Duree_04min.jpg
+0015_Duree_05min.jpg
+0016_Duree_06min.jpg
+0017_Duree_07min.jpg
+0018_Duree_08min.jpg
+0019_Duree_09min.jpg
+0020_Duree_10min.jpg
+0021_Remodelage.jpg
+0022_Anti_cellulite.jpg
+0023_Gainage.jpg
+0024_Relaxation_Drainage.jpg
+0007_Perso.jpg
+Picture list----
+Page0: 0000_Demarrage.jpg
+Scan image:0000_Demarrage.jpg ...
+
+Page1: 0001_Menu_principal.jpg
+Scan image:0001_Menu_principal.jpg ...
+
+Page2: 0002_Duree_01min.jpg
+Scan image:0002_Duree_01min.jpg ...
+
+Page3: 0003_Programmes.jpg
+Scan image:0003_Programmes.jpg ...
+
+Page4: 0004_Tonification_Muscles.jpg
+Scan image:0004_Tonification_Muscles.jpg ...
+
+Page5: 0005_Niveau.jpg
+Scan image:0005_Niveau.jpg ...
+
+Page6: 0006_Seance_Programmes.jpg
+Scan image:0006_Seance_Programmes.jpg ...
+
+Page7: 0007_Perso.jpg
+Scan image:0007_Perso.jpg ...
+
+Page8: 0008_Seance_Perso.jpg
+Scan image:0008_Seance_Perso.jpg ...
+
+Page9: 0009_Manuel_Clavier.jpg
+Scan image:0009_Manuel_Clavier.jpg ...
+
+Page10: 0010_Seance_Manuel.jpg
+Scan image:0010_Seance_Manuel.jpg ...
+
+Page11: 0011_Seance_Duree.jpg
+Scan image:0011_Seance_Duree.jpg ...
+
+Page12: 0012_Duree_02min.jpg
+Scan image:0012_Duree_02min.jpg ...
+
+Page13: 0013_Duree_03min.jpg
+Scan image:0013_Duree_03min.jpg ...
+
+Page14: 0014_Duree_04min.jpg
+Scan image:0014_Duree_04min.jpg ...
+
+Page15: 0015_Duree_05min.jpg
+Scan image:0015_Duree_05min.jpg ...
+
+Page16: 0016_Duree_06min.jpg
+Scan image:0016_Duree_06min.jpg ...
+
+Page17: 0017_Duree_07min.jpg
+Scan image:0017_Duree_07min.jpg ...
+
+Page18: 0018_Duree_08min.jpg
+Scan image:0018_Duree_08min.jpg ...
+
+Page19: 0019_Duree_09min.jpg
+Scan image:0019_Duree_09min.jpg ...
+
+Page20: 0020_Duree_10min.jpg
+Scan image:0020_Duree_10min.jpg ...
+
+Page21: 0021_Remodelage.jpg
+Scan image:0021_Remodelage.jpg ...
+
+Page22: 0022_Anti_cellulite.jpg
+Scan image:0022_Anti_cellulite.jpg ...
+
+Page23: 0023_Gainage.jpg
+Scan image:0023_Gainage.jpg ...
+
+Page24: 0024_Relaxation_Drainage.jpg
+Scan image:0024_Relaxation_Drainage.jpg ...
+
+Page25: 0007_Perso.jpg
+
+Make Picture_all.bin
+
+Icon_number: 396
+needle Icon_number: 0
+The icon 0 does not exist!
+
+The icon 1 does not exist!
+
+The icon 2 does not exist!
+
+The icon 3 does not exist!
+
+The icon 4 does not exist!
+
+The icon 5 does not exist!
+
+The icon 6 does not exist!
+
+The icon 7 does not exist!
+
+The icon 8 does not exist!
+
+The icon 9 does not exist!
+
+The icon 10 does not exist!
+
+The icon 11 does not exist!
+
+The icon 12 does not exist!
+
+The icon 13 does not exist!
+
+The icon 14 does not exist!
+
+The icon 15 does not exist!
+
+The icon 16 does not exist!
+
+The icon 17 does not exist!
+
+The icon 18 does not exist!
+
+The icon 19 does not exist!
+
+The icon 20 does not exist!
+
+The icon 21 does not exist!
+
+The icon 22 does not exist!
+
+The icon 23 does not exist!
+
+The icon 24 does not exist!
+
+The icon 25 does not exist!
+
+The icon 26 does not exist!
+
+The icon 27 does not exist!
+
+The icon 28 does not exist!
+
+The icon 29 does not exist!
+
+The icon 30 does not exist!
+
+The icon 31 does not exist!
+
+Scan icon: 0042_play.jpg ...
+Scan icon: 0043_pause.jpg ...
+Scan icon: 0044_so_0.jpg ...
+Scan icon: 0045_so_1.jpg ...
+Scan icon: 0046_so_2.jpg ...
+Scan icon: 0047_so_3.jpg ...
+Scan icon: 0048_so_4.jpg ...
+Scan icon: 0049_so_5.jpg ...
+Scan icon: 0050_so_6.jpg ...
+Scan icon: 0051_so_7.jpg ...
+Scan icon: 0052_so_8.jpg ...
+Scan icon: 0053_so_9.jpg ...
+Scan icon: 0054_timer_so_0.png ...
+Scan icon: 0055_timer_so_1.png ...
+Scan icon: 0056_timer_so_2.png ...
+Scan icon: 0057_timer_so_3.png ...
+Scan icon: 0058_timer_so_4.png ...
+Scan icon: 0059_timer_so_5.png ...
+Scan icon: 0060_timer_so_6.png ...
+Scan icon: 0061_timer_so_7.png ...
+Scan icon: 0062_timer_so_8.png ...
+Scan icon: 0063_timer_so_9.png ...
+Scan icon: 0064_timer_hai_cham.png ...
+Scan icon: 0065_timer_gach_nam.png ...
+Scan icon: 0066_timer_gach_thang.png ...
+Scan icon: 0067_timer_gach_ngay.png ...
+Scan icon: 0068_xung_tat.jpg ...
+Scan icon: 0069_xung_bat.jpg ...
+Scan icon: 0070_perso_1.jpg ...
+Scan icon: 0071_perso_2.jpg ...
+Scan icon: 0072_perso_3.jpg ...
+Scan icon: 0073_perso_4.jpg ...
+Scan icon: 0074_perso_5.jpg ...
+Scan icon: 0075_perso_6.jpg ...
+Scan icon: 0076_tieude_00.jpg ...
+Scan icon: 0077_tieude_01.jpg ...
+Scan icon: 0078_tieude_02.jpg ...
+Scan icon: 0079_tieude_03.jpg ...
+Scan icon: 0080_tieude_04.jpg ...
+Scan icon: 0081_tieude_05.jpg ...
+Scan icon: 0082_tieude_06.jpg ...
+Scan icon: 0083_tieude_07.jpg ...
+Scan icon: 0084_tieude_08.jpg ...
+Scan icon: 0085_tieude_09.jpg ...
+Scan icon: 0086_tieude_10.jpg ...
+Scan icon: 0087_tieude_11.jpg ...
+Scan icon: 0088_tieude_12.jpg ...
+Scan icon: 0089_tieude_13.jpg ...
+Scan icon: 0090_tieude_14.jpg ...
+Scan icon: 0091_tieude_15.jpg ...
+Scan icon: 0092_tieude_16.jpg ...
+Scan icon: 0093_tieude_17.jpg ...
+Scan icon: 0094_tieude_18.jpg ...
+Scan icon: 0095_tieude_19.jpg ...
+Scan icon: 0096_tieude_20.jpg ...
+Scan icon: 0097_tieude_21.jpg ...
+Scan icon: 0098_capdo_0.jpg ...
+Scan icon: 0099_capdo_1.jpg ...
+Scan icon: 0100_capdo_2.jpg ...
+Scan icon: 0101_capdo_3.jpg ...
+The icon 102 does not exist!
+
+The icon 103 does not exist!
+
+The icon 104 does not exist!
+
+The icon 105 does not exist!
+
+The icon 106 does not exist!
+
+The icon 107 does not exist!
+
+The icon 108 does not exist!
+
+The icon 109 does not exist!
+
+The icon 110 does not exist!
+
+The icon 111 does not exist!
+
+The icon 112 does not exist!
+
+The icon 113 does not exist!
+
+The icon 114 does not exist!
+
+The icon 115 does not exist!
+
+The icon 116 does not exist!
+
+The icon 117 does not exist!
+
+The icon 118 does not exist!
+
+The icon 119 does not exist!
+
+The icon 120 does not exist!
+
+The icon 121 does not exist!
+
+The icon 122 does not exist!
+
+The icon 123 does not exist!
+
+The icon 124 does not exist!
+
+The icon 125 does not exist!
+
+The icon 126 does not exist!
+
+The icon 127 does not exist!
+
+The icon 128 does not exist!
+
+The icon 129 does not exist!
+
+The icon 130 does not exist!
+
+The icon 131 does not exist!
+
+The icon 132 does not exist!
+
+The icon 133 does not exist!
+
+The icon 134 does not exist!
+
+The icon 135 does not exist!
+
+The icon 136 does not exist!
+
+The icon 137 does not exist!
+
+The icon 138 does not exist!
+
+The icon 139 does not exist!
+
+The icon 140 does not exist!
+
+The icon 141 does not exist!
+
+The icon 142 does not exist!
+
+The icon 143 does not exist!
+
+The icon 144 does not exist!
+
+The icon 145 does not exist!
+
+The icon 146 does not exist!
+
+The icon 147 does not exist!
+
+The icon 148 does not exist!
+
+The icon 149 does not exist!
+
+The icon 150 does not exist!
+
+The icon 151 does not exist!
+
+The icon 152 does not exist!
+
+The icon 153 does not exist!
+
+The icon 154 does not exist!
+
+The icon 155 does not exist!
+
+The icon 156 does not exist!
+
+The icon 157 does not exist!
+
+The icon 158 does not exist!
+
+The icon 159 does not exist!
+
+The icon 160 does not exist!
+
+The icon 161 does not exist!
+
+The icon 162 does not exist!
+
+The icon 163 does not exist!
+
+The icon 164 does not exist!
+
+The icon 165 does not exist!
+
+The icon 166 does not exist!
+
+The icon 167 does not exist!
+
+The icon 168 does not exist!
+
+The icon 169 does not exist!
+
+The icon 170 does not exist!
+
+The icon 171 does not exist!
+
+The icon 172 does not exist!
+
+The icon 173 does not exist!
+
+The icon 174 does not exist!
+
+The icon 175 does not exist!
+
+The icon 176 does not exist!
+
+The icon 177 does not exist!
+
+The icon 178 does not exist!
+
+The icon 179 does not exist!
+
+The icon 180 does not exist!
+
+The icon 181 does not exist!
+
+The icon 182 does not exist!
+
+The icon 183 does not exist!
+
+The icon 184 does not exist!
+
+The icon 185 does not exist!
+
+The icon 186 does not exist!
+
+The icon 187 does not exist!
+
+The icon 188 does not exist!
+
+The icon 189 does not exist!
+
+The icon 190 does not exist!
+
+The icon 191 does not exist!
+
+The icon 192 does not exist!
+
+The icon 193 does not exist!
+
+The icon 194 does not exist!
+
+The icon 195 does not exist!
+
+The icon 196 does not exist!
+
+The icon 197 does not exist!
+
+The icon 198 does not exist!
+
+The icon 199 does not exist!
+
+The icon 200 does not exist!
+
+The icon 201 does not exist!
+
+The icon 202 does not exist!
+
+The icon 203 does not exist!
+
+The icon 204 does not exist!
+
+The icon 205 does not exist!
+
+The icon 206 does not exist!
+
+The icon 207 does not exist!
+
+The icon 208 does not exist!
+
+The icon 209 does not exist!
+
+The icon 210 does not exist!
+
+The icon 211 does not exist!
+
+The icon 212 does not exist!
+
+The icon 213 does not exist!
+
+The icon 214 does not exist!
+
+The icon 215 does not exist!
+
+The icon 216 does not exist!
+
+The icon 217 does not exist!
+
+The icon 218 does not exist!
+
+The icon 219 does not exist!
+
+The icon 220 does not exist!
+
+The icon 221 does not exist!
+
+The icon 222 does not exist!
+
+The icon 223 does not exist!
+
+The icon 224 does not exist!
+
+The icon 225 does not exist!
+
+The icon 226 does not exist!
+
+The icon 227 does not exist!
+
+The icon 228 does not exist!
+
+The icon 229 does not exist!
+
+The icon 230 does not exist!
+
+The icon 231 does not exist!
+
+The icon 232 does not exist!
+
+The icon 233 does not exist!
+
+The icon 234 does not exist!
+
+The icon 235 does not exist!
+
+The icon 236 does not exist!
+
+The icon 237 does not exist!
+
+The icon 238 does not exist!
+
+The icon 239 does not exist!
+
+The icon 240 does not exist!
+
+The icon 241 does not exist!
+
+The icon 242 does not exist!
+
+The icon 243 does not exist!
+
+The icon 244 does not exist!
+
+The icon 245 does not exist!
+
+The icon 246 does not exist!
+
+The icon 247 does not exist!
+
+The icon 248 does not exist!
+
+The icon 249 does not exist!
+
+The icon 250 does not exist!
+
+The icon 251 does not exist!
+
+The icon 252 does not exist!
+
+The icon 253 does not exist!
+
+The icon 254 does not exist!
+
+The icon 255 does not exist!
+
+The icon 256 does not exist!
+
+The icon 257 does not exist!
+
+The icon 258 does not exist!
+
+The icon 259 does not exist!
+
+The icon 260 does not exist!
+
+The icon 261 does not exist!
+
+The icon 262 does not exist!
+
+The icon 263 does not exist!
+
+The icon 264 does not exist!
+
+The icon 265 does not exist!
+
+The icon 266 does not exist!
+
+The icon 267 does not exist!
+
+The icon 268 does not exist!
+
+The icon 269 does not exist!
+
+The icon 270 does not exist!
+
+The icon 271 does not exist!
+
+The icon 272 does not exist!
+
+The icon 273 does not exist!
+
+The icon 274 does not exist!
+
+The icon 275 does not exist!
+
+The icon 276 does not exist!
+
+The icon 277 does not exist!
+
+The icon 278 does not exist!
+
+The icon 279 does not exist!
+
+The icon 280 does not exist!
+
+The icon 281 does not exist!
+
+The icon 282 does not exist!
+
+The icon 283 does not exist!
+
+The icon 284 does not exist!
+
+The icon 285 does not exist!
+
+The icon 286 does not exist!
+
+The icon 287 does not exist!
+
+The icon 288 does not exist!
+
+The icon 289 does not exist!
+
+The icon 290 does not exist!
+
+The icon 291 does not exist!
+
+The icon 292 does not exist!
+
+The icon 293 does not exist!
+
+The icon 294 does not exist!
+
+The icon 295 does not exist!
+
+The icon 296 does not exist!
+
+The icon 297 does not exist!
+
+The icon 298 does not exist!
+
+The icon 299 does not exist!
+
+Scan icon: 0300_cuongdo_p0006_01.png ...
+Scan icon: 0301_cuongdo_p0006_02.png ...
+Scan icon: 0302_cuongdo_p0006_03.png ...
+Scan icon: 0303_cuongdo_p0006_04.png ...
+Scan icon: 0304_cuongdo_p0006_05.png ...
+Scan icon: 0305_cuongdo_p0006_06.png ...
+Scan icon: 0306_cuongdo_p0006_07.png ...
+Scan icon: 0307_cuongdo_p0006_08.png ...
+Scan icon: 0308_cuongdo_p0006_09.png ...
+Scan icon: 0309_cuongdo_p0006_10.png ...
+Scan icon: 0310_cuongdo_p0006_11.png ...
+Scan icon: 0311_cuongdo_p0006_12.png ...
+Scan icon: 0312_cuongdo_p0006_13.png ...
+Scan icon: 0313_cuongdo_p0006_14.png ...
+Scan icon: 0314_cuongdo_p0006_15.png ...
+Scan icon: 0315_cuongdo_p0006_16.png ...
+Scan icon: 0316_cuongdo_p0006_17.png ...
+Scan icon: 0317_cuongdo_p0006_18.png ...
+Scan icon: 0318_cuongdo_p0006_19.png ...
+Scan icon: 0319_cuongdo_p0006_20.png ...
+Scan icon: 0320_cuongdo_p0006_21.png ...
+Scan icon: 0321_cuongdo_p0006_22.png ...
+Scan icon: 0322_cuongdo_p0006_23.png ...
+Scan icon: 0323_cuongdo_p0006_24.png ...
+Scan icon: 0324_cuongdo_p0006_25.png ...
+Scan icon: 0325_cuongdo_p0006_26.png ...
+Scan icon: 0326_cuongdo_p0006_27.png ...
+Scan icon: 0327_cuongdo_p0006_28.png ...
+Scan icon: 0328_cuongdo_p0006_29.png ...
+Scan icon: 0329_cuongdo_p0006_30.png ...
+Scan icon: 0330_cuongdo_p0006_31.png ...
+Scan icon: 0331_cuongdo_p0006_32.png ...
+Scan icon: 0332_cuongdo_p0010_01.png ...
+Scan icon: 0333_cuongdo_p0010_02.png ...
+Scan icon: 0334_cuongdo_p0010_03.png ...
+Scan icon: 0335_cuongdo_p0010_04.png ...
+Scan icon: 0336_cuongdo_p0010_05.png ...
+Scan icon: 0337_cuongdo_p0010_06.png ...
+Scan icon: 0338_cuongdo_p0010_07.png ...
+Scan icon: 0339_cuongdo_p0010_08.png ...
+Scan icon: 0340_cuongdo_p0010_09.png ...
+Scan icon: 0341_cuongdo_p0010_10.png ...
+Scan icon: 0342_cuongdo_p0010_11.png ...
+Scan icon: 0343_cuongdo_p0010_12.png ...
+Scan icon: 0344_cuongdo_p0010_13.png ...
+Scan icon: 0345_cuongdo_p0010_14.png ...
+Scan icon: 0346_cuongdo_p0010_15.png ...
+Scan icon: 0347_cuongdo_p0010_16.png ...
+Scan icon: 0348_cuongdo_p0010_17.png ...
+Scan icon: 0349_cuongdo_p0010_18.png ...
+Scan icon: 0350_cuongdo_p0010_19.png ...
+Scan icon: 0351_cuongdo_p0010_20.png ...
+Scan icon: 0352_cuongdo_p0010_21.png ...
+Scan icon: 0353_cuongdo_p0010_22.png ...
+Scan icon: 0354_cuongdo_p0010_23.png ...
+Scan icon: 0355_cuongdo_p0010_24.png ...
+Scan icon: 0356_cuongdo_p0010_25.png ...
+Scan icon: 0357_cuongdo_p0010_26.png ...
+Scan icon: 0358_cuongdo_p0010_27.png ...
+Scan icon: 0359_cuongdo_p0010_28.png ...
+Scan icon: 0360_cuongdo_p0010_29.png ...
+Scan icon: 0361_cuongdo_p0010_30.png ...
+Scan icon: 0362_cuongdo_p0010_31.png ...
+Scan icon: 0363_cuongdo_p0010_32.png ...
+Scan icon: 0364_cuongdo_p0011_01.png ...
+Scan icon: 0365_cuongdo_p0011_02.png ...
+Scan icon: 0366_cuongdo_p0011_03.png ...
+Scan icon: 0367_cuongdo_p0011_04.png ...
+Scan icon: 0368_cuongdo_p0011_05.png ...
+Scan icon: 0369_cuongdo_p0011_06.png ...
+Scan icon: 0370_cuongdo_p0011_07.png ...
+Scan icon: 0371_cuongdo_p0011_08.png ...
+Scan icon: 0372_cuongdo_p0011_09.png ...
+Scan icon: 0373_cuongdo_p0011_10.png ...
+Scan icon: 0374_cuongdo_p0011_11.png ...
+Scan icon: 0375_cuongdo_p0011_12.png ...
+Scan icon: 0376_cuongdo_p0011_13.png ...
+Scan icon: 0377_cuongdo_p0011_14.png ...
+Scan icon: 0378_cuongdo_p0011_15.png ...
+Scan icon: 0379_cuongdo_p0011_16.png ...
+Scan icon: 0380_cuongdo_p0011_17.png ...
+Scan icon: 0381_cuongdo_p0011_18.png ...
+Scan icon: 0382_cuongdo_p0011_19.png ...
+Scan icon: 0383_cuongdo_p0011_20.png ...
+Scan icon: 0384_cuongdo_p0011_21.png ...
+Scan icon: 0385_cuongdo_p0011_22.png ...
+Scan icon: 0386_cuongdo_p0011_23.png ...
+Scan icon: 0387_cuongdo_p0011_24.png ...
+Scan icon: 0388_cuongdo_p0011_25.png ...
+Scan icon: 0389_cuongdo_p0011_26.png ...
+Scan icon: 0390_cuongdo_p0011_27.png ...
+Scan icon: 0391_cuongdo_p0011_28.png ...
+Scan icon: 0392_cuongdo_p0011_29.png ...
+Scan icon: 0393_cuongdo_p0011_30.png ...
+Scan icon: 0394_cuongdo_p0011_31.png ...
+Scan icon: 0395_cuongdo_p0011_32.png ...
+Make icon_all.bin
+
+Make UartTFT-II_Flash.bin

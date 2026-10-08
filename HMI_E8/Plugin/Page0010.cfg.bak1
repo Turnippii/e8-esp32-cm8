@@ -1,0 +1,10 @@
+﻿button_0:0,0,130,80,0x0020,,,Page0001,button_0,Disable,Disable,0x0000,
+icon_0:0xFFFF,2,0x100B,2,0,140,600,586,0332_cuongdo_p0010_01.png,0363_cuongdo_p0010_32.png,softpng,,0,31,icon_0,Enable;
+varAdj_0:40,740,140,80,0x1000,1,0,31,ushort,-,Loop,Repeat,,,varAdj_0,Enable,Disable,0x0000;
+varAdj_1:420,740,140,80,0x1000,1,0,31,ushort,+,Loop,Repeat,,,varAdj_0,Enable,Disable,0x0000;
+icon_1:0xFFFF,2,0x1001,2,244,825,110,70,0042_play.jpg,0043_pause.jpg,,,0,1,icon_1,Disable;
+varAdj_2:244,825,110,70,0x1001,1,0,1,ushort,+,Loop,Repeat,,,varAdj_0,Disable,Disable,0x0000;
+batVar_0:455,820,110,80,,,Page0001,0x1000,0x0000,0x1001,0x0000,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,batVar_0,Disable,Disable,0x0000;
+uitimer_0:0xFFFF,34,159,150,45,0x1002,300,0x1003,60,0x1001,0,0054_timer_so_0.png,0067_timer_gach_ngay.png,MM:SS,-,Enable,Disable,uitimer_0,0x1001,0x0000,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF,0xFFFF;
+icon_2:0xFFFF,2,0x1005,2,35,825,110,70,0068_xung_tat.jpg,0069_xung_bat.jpg,,,0,1,icon_2,Disable;
+varAdj_3:35,825,110,70,0x1005,1,0,1,ushort,+,Loop,Once,,,varAdj_3,Disable,Disable,0x0000;
