@@ -8,3 +8,5 @@ dependencies.lock
 UartTFT_Flash/
 UartTFT-II_Flash.bin
 EOF
+*.bak
+*.bak1
